@@ -25,3 +25,13 @@ a {
     font-size: 18px;
     font-weight: bold;
 }
+
+.socials {
+    position: fixed;
+    right: 5%;
+    bottom: 5%;
+}
+
+.socials a {
+    margin-right: 10px;
+}
